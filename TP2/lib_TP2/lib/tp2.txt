@@ -1,0 +1,20 @@
+HTA = 804
+HTB = 704
+HTC = 804
+LTF = 1604
+LTT = 1104 
+WTS = 600
+STF = 219
+DTF = 433
+DTT = 691
+H = 1223
+LZ = 332
+LX = 125
+LA = 295
+LB = 340
+LC = 335
+LD = 194
+HBL = 50
+LBL = 150
+WBL = 40
+            
